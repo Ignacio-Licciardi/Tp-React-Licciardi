@@ -5,7 +5,7 @@ const Cards = () => {
   return (
     <CardGroup>
     <Card>
-      <Card.Img variant="top" src="src/assets/images/imagenCardsReact.jpg" />
+      <Card.Img variant="top" src="/images/imagenCardsReact.jpg" />
       <Card.Body>
         <Card.Title>Card title</Card.Title>
         <Card.Text>
@@ -18,7 +18,7 @@ const Cards = () => {
       </Card.Footer>
     </Card>
     <Card>
-      <Card.Img variant="top" src="src/assets/images/imagenCardsReact.jpg" />
+      <Card.Img variant="top" src="/images/imagenCardsReact.jpg" />
       <Card.Body>
         <Card.Title>Card title</Card.Title>
         <Card.Text>
@@ -31,7 +31,7 @@ const Cards = () => {
       </Card.Footer>
     </Card>
     <Card>
-      <Card.Img variant="top" src="src/assets/images/imagenCardsReact.jpg" />
+      <Card.Img variant="top" src="/images/imagenCardsReact.jpg" />
       <Card.Body>
         <Card.Title>Card title</Card.Title>
         <Card.Text>
